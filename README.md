@@ -1,0 +1,2 @@
+# CustomSpringSecurityDatabaseAnnotation
+CustomSpringSecurityDatabaseAnnotation
